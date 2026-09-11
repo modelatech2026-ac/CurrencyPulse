@@ -1,0 +1,8 @@
+{
+  "name": "CurrencyPulse",
+  "description": "Precision calculator, real-time multi-currency converter, and freelance project rate estimator with dynamic light and dark theming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
